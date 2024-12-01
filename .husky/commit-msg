@@ -1,0 +1,1 @@
+mpx commitlint --edit $1
